@@ -23,5 +23,5 @@ This project involves analyzing COVID-19 trends using data from 2020-2021. The g
 - Assessed vaccination progress by calculating dynamic vaccination rates, demonstrating that the U.S. had vaccinated over 68% of its population with at least one dose by the analysis end date.
 
 ## Contact
-For more information, reach out to [Your Email].
+For more information, reach out to mouhamaad.ibrahim@gmail.com.
 
