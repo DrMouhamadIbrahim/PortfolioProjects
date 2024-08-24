@@ -16,6 +16,8 @@ Welcome to my portfolio! I am an accomplished Data Analyst with over 5 years of 
 - **Description:** Led a comprehensive analysis of 10k+ Android apps focusing on identifying key success factors, improving data quality by 75%, and leveraging Power BI dashboards to deliver actionable insights to stakeholders.
 - **Key Insights:** Discovered a 160%-250% rise in downloads driven by genre and audience targeting, identified optimal app release timing, and demonstrated the impact of user reviews on download performance.
 
+[Explore the full project details](Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)
+
 ### 3. [SF Bike Share Insights (2017-2019 Data)](link_to_project)
 - **Tools Used:** Tableau
 - **Description:** Developed an interactive Tableau dashboard analyzing 1M+ rows of data, revealing key user trends and informing strategies to enhance customer lifetime value (CLV) through targeted conversions and retention models.
