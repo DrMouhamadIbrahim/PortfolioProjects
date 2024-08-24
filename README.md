@@ -45,4 +45,9 @@ SQL, Excel, R, Tableau, Power BI
 
 Additionally, as a lifelong learner and award-winning data enthusiast, I earned the prestigious Gold Streak Badge by mastering 6 series of data challenges in a competitive Data Analytics specialization program at Zaka AI, where I also ranked 1st out of 23. Fluent in English, French, and Arabic, I excel in diverse environments and actively engage with data communities like DataCamp and Beirut AI. Passionate about data storytelling, I’ve published 5+ papers, including one ranked in the top 25% by Altmetric.
 
-I’m excited to bring my expertise in advanced analytics to industry settings where I can elevate data quality, optimize processes, and drive smarter decision-making. With a passion for innovation and a commitment to delivering measurable outcomes, I’m eager to collaborate with forward-thinking teams in dynamic sectors like healthcare, finance, and tech. Let’s connect and explore how I can contribute to your organization’s success—reach me at mouhamaad.ibrahim@gmail.com.
+I’m excited to bring my expertise in advanced analytics to industry settings where I can elevate data quality, optimize processes, and drive smarter decision-making. With a passion for innovation and a commitment to delivering measurable outcomes, I’m eager to collaborate with forward-thinking teams in dynamic sectors like healthcare, finance, and tech.
+
+Let’s connect:
+- [LinkedIn](https://www.linkedin.com/in/mouhamadibrahim)
+- [GitHub](https://github.com/mouhamadibrahim)
+- [Email](mailto:mouhamaad.ibrahim@gmail.com)
