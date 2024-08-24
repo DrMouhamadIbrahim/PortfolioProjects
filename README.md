@@ -48,6 +48,6 @@ Additionally, as a lifelong learner and award-winning data enthusiast, I earned 
 I’m excited to bring my expertise in advanced analytics to industry settings where I can elevate data quality, optimize processes, and drive smarter decision-making. With a passion for innovation and a commitment to delivering measurable outcomes, I’m eager to collaborate with forward-thinking teams in dynamic sectors like healthcare, finance, and tech.
 
 Let’s connect:
-- [LinkedIn](https://www.linkedin.com/in/mouhamadibrahim)
-- [GitHub](https://github.com/mouhamadibrahim)
+- [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim)
+- [GitHub](https://github.com/mouhamaadibrahim)
 - [Email](mailto:mouhamaad.ibrahim@gmail.com)
