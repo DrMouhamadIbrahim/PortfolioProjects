@@ -8,7 +8,7 @@ This project involves analyzing COVID-19 trends using data from 2020-2021. The g
 - Analysis focuses on trends like peak case periods, mortality rates, and geographic differences.
 
 ## Files in This Project
-- **Analyzing COVID-19 Trends (2020-2021 Data).sql**: The SQL script used to analyze the data.
+- [**Analyzing COVID-19 Trends (2020-2021 Data).sql**](Analyzing%20COVID-19%20Trends%20(2020-2021%20Data).sql): The SQL script used to analyze the data.
 
 ## How to Use
 1. Clone this repository.
@@ -23,5 +23,4 @@ This project involves analyzing COVID-19 trends using data from 2020-2021. The g
 - Assessed vaccination progress by calculating dynamic vaccination rates, demonstrating that the U.S. had vaccinated over 68% of its population with at least one dose by the analysis end date.
 
 ## Contact
-For more information, reach out to mouhamaad.ibrahim@gmail.com.
-
+For more information, reach out to [mouhamaad.ibrahim@gmail.com](mailto:mouhamaad.ibrahim@gmail.com).
