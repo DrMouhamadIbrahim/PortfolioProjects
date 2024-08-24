@@ -18,9 +18,10 @@ Welcome to my portfolio! I am an award-winning Data Analyst with over 5 years of
 
 [Explore the full project details](Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)
 
-### 3. [SF Bike Share Insights (2017-2019 Data)](link_to_project)
+### 3. [SF Bike Share Insights (2017-2019 Data)](SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)
 - **Tools Used:** Tableau
-- **Description:** Developed an interactive Tableau dashboard analyzing 1M+ rows of data, revealing key user trends and informing strategies to enhance customer lifetime value (CLV) through targeted conversions and retention models.
+- **Description:** Created an interactive Tableau dashboard interpreting 1M+ rows of data, revealing key user trends and uncovering opportunities to enhance customer lifetime value (CLV) through targeted conversion strategies.
+- **Key Insights:** Detected that 18% of users (casual riders) use bikes 3.5x longer than the 82% who are subscribers, modeled a 2.73% revenue growth by converting 20% of high-value casual riders to subscribers, and identified demographic trends driving trip durations.
 
 ---
 
