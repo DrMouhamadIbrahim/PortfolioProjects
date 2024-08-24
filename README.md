@@ -23,6 +23,8 @@ Welcome to my portfolio! I am an award-winning Data Analyst with over 5 years of
 - **Description:** Created an interactive Tableau dashboard interpreting 1M+ rows of data, revealing key user trends and uncovering opportunities to enhance customer lifetime value (CLV) through targeted conversion strategies.
 - **Key Insights:** Detected that 18% of users (casual riders) use bikes 3.5x longer than the 82% who are subscribers, modeled a 2.73% revenue growth by converting 20% of high-value casual riders to subscribers, and identified demographic trends driving trip durations.
 
+[Explore the full project details](SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)
+
 ---
 
 ## 💻 Technical Skills
