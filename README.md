@@ -1,6 +1,6 @@
 # Portfolio Projects by Mouhamad Ibrahim, PhD
 
-Welcome to my portfolio! I am an accomplished Data Analyst with over 5 years of expertise in statistical analysis, data visualization, and modeling across research and higher education. This repository showcases a collection of data-driven projects I've worked on, applying advanced analytics techniques using tools like SQL, Excel, R, Power BI, and Tableau as I transition into industry roles.
+Welcome to my portfolio! I am an award-winning Data Analyst with over 5 years of expertise in statistical analysis, data visualization, and modeling across research and higher education. This repository showcases a collection of data-driven projects I've worked on, applying advanced analytics techniques using tools like SQL, Excel, R, Power BI, and Tableau as I transition into industry roles.
 
 ## 📈 Featured Projects
 
@@ -33,7 +33,16 @@ Welcome to my portfolio! I am an accomplished Data Analyst with over 5 years of 
 - Published 5+ highly cited research papers, with one ranked in the top 25% by Altmetric.
 
 ## 📄 About Me
-I am a lifelong learner and data enthusiast, passionate about transforming complex datasets into actionable insights that drive strategic decision-making. My work spans across academia and education, delivering solutions that have boosted data quality by 75%, optimized processes by 400%, and expanded analysis capabilities by 65%.
+Award-winning Data Analyst with 5+ years of expertise transforming complex data into actionable insights through statistical analysis, data visualization, and modeling across research and higher education. Now transitioning to industry roles, I bring a proven track record of driving high-impact decisions that expanded analysis by 65% and optimized data collection by 400%. I focus on leveraging advanced analytics to help stakeholders elevate data-driven decision-making by up to 75%.
 
-Let’s connect!  
-[LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim) | [GitHub](https://github.com/mouhamaadibrahim) | [Email](mailto:mouhamaad.ibrahim@gmail.com)
+### Technical Skills & Tools:
+SQL, Excel, R, Tableau, Power BI
+
+### Key Contributions include:
+- Engineered models that expanded analysis capabilities by 65% and boosted sensor sensitivity by 18% at IJL CNRS, leading to adoption by 4 industry leaders.
+- Cut production costs by 70% and elevated data quality by 30% at IEMN CNRS through cross-functional collaboration, driving significant efficiency gains.
+- Spearheaded a capstone project at Zaka AI analyzing 10k+ Android apps, improving data quality by 75% and delivering actionable business intelligence insights for stakeholders.
+
+Additionally, as a lifelong learner and award-winning data enthusiast, I earned the prestigious Gold Streak Badge by mastering 6 series of data challenges in a competitive Data Analytics specialization program at Zaka AI, where I also ranked 1st out of 23. Fluent in English, French, and Arabic, I excel in diverse environments and actively engage with data communities like DataCamp and Beirut AI. Passionate about data storytelling, I’ve published 5+ papers, including one ranked in the top 25% by Altmetric.
+
+I’m excited to bring my expertise in advanced analytics to industry settings where I can elevate data quality, optimize processes, and drive smarter decision-making. With a passion for innovation and a commitment to delivering measurable outcomes, I’m eager to collaborate with forward-thinking teams in dynamic sectors like healthcare, finance, and tech. Let’s connect and explore how I can contribute to your organization’s success—reach me at mouhamaad.ibrahim@gmail.com.
