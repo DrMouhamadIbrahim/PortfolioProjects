@@ -11,7 +11,7 @@ The analysis involved interpreting over 1 million rows of data to generate actio
 
 ![Dashboard Preview](Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).png)
 
-[Click here to view the Tableau dashboard]([your-dashboard-link-here](https://public.tableau.com/app/profile/mouhamad.ibrahim1084/viz/SfBikeShareInsights2017-2019Data/Dashboard1#1))
+[Click here to view the Tableau dashboard]([your-dashboard-link-here](https://public.tableau.com/app/profile/mouhamad.ibrahim1084/viz/SfBikeShareInsights2017-2019Data/Dashboard1#1)
 
 ## Key Insights
 - Created an interactive Tableau dashboard interpreting 1M+ rows of data, revealing key user trends informing data-driven decision-making.
