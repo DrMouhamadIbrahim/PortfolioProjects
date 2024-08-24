@@ -26,7 +26,7 @@ Welcome to my portfolio! I am an accomplished Data Analyst with over 5 years of 
 - **Business Intelligence:** Microsoft Power BI (DAX, Power Query), Tableau (Advanced Visualizations)
 
 ## 🏆 Achievements
-- Ranked 1st in Zaka AI’s Data Analytics specialization program, earning the Gold Streak Badge for mastering 6 data challenges.
+- **Earned the Gold Streak Badge** for mastering 6 data challenges, ranked 1st in Zaka AI’s Data Analytics specialization program.
 - Published 5+ highly cited research papers, with one ranked in the top 25% by Altmetric.
 
 ## 📄 About Me
