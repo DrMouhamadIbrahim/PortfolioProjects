@@ -27,8 +27,8 @@ The findings provide actionable insights for app developers, highlighting how ge
 - Correlated user review counts with downloads (coefficient of 0.63) through statistical modeling in R, underlining the effectiveness of strategies to incentivize reviews.
 
 ## Project Reports
-- [Overall Project Report](reports/Android App Metrics Analysis (2010-2018 Data)_Report.pdf)
-- [Data Quality Improvement Report (75%)](reports/Data Quality Improvement_Report.pdf)
+- [Overall Project Report](reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf)
+- [Data Quality Improvement Report (75%)](reports/Data%20Quality%20Improvement_Report.pdf)
 
 ## How to Use
 1. Open the Jupyter notebook in the `scripts/` folder to view the R code.
