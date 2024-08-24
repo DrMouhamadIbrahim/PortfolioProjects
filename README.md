@@ -11,9 +11,10 @@ Welcome to my portfolio! I am an accomplished Data Analyst with over 5 years of 
 
 [Explore the full project details](Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/README.md)
 
-### 2. [Android App Metrics Analysis (2010-2018 Data)](link_to_project)
+### 2. [Android App Metrics Analysis (2010-2018 Data)](Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)
 - **Tools Used:** R, Power BI
-- **Description:** Led data cleaning and analysis of 10k+ Android apps, refining insights with a custom Deviation Metric model and Power BI dashboards. The analysis highlighted how value-centric app genres and tailored designs led to a 160%-250% rise in downloads.
+- **Description:** Led a comprehensive analysis of 10k+ Android apps focusing on identifying key success factors, improving data quality by 75%, and leveraging Power BI dashboards to deliver actionable insights to stakeholders.
+- **Key Insights:** Discovered a 160%-250% rise in downloads driven by genre and audience targeting, identified optimal app release timing, and demonstrated the impact of user reviews on download performance.
 
 ### 3. [SF Bike Share Insights (2017-2019 Data)](link_to_project)
 - **Tools Used:** Tableau
