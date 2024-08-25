@@ -1,6 +1,7 @@
-# Portfolio Projects by Mouhamad Ibrahim, PhD
+# Data-Driven Solutions Portfolio by Mouhamad Ibrahim, PhD
 
-Welcome to my portfolio! I am an award-winning Data Analyst with over 5 years of expertise in statistical analysis, data visualization, and modeling across research and higher education. This repository showcases a collection of data-driven projects I've worked on, applying advanced analytics techniques using tools like SQL, Excel, R, Power BI, and Tableau as I transition into industry roles.
+Welcome to my Data-Driven Solutions Portfolio! I am an award-winning Data Analyst with over 5 years of expertise in statistical analysis, data visualization, and modeling across research and higher education. This repository showcases a collection of solutions-oriented and insights-driven projects, applying advanced analytics techniques using tools like SQL, Excel, R, Power BI, and Tableau as I transition into industry roles. My work spans from actionable business intelligence solutions to research-driven analysis that demonstrates measurable impact in real-world applications.
+
 
 ## 📈 Featured Projects
 
