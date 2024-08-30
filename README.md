@@ -57,6 +57,11 @@ My work spans actionable business intelligence solutions, impactful data challen
 - **Improved Data Quality by 75%** in capstone project analyzing 10k+ Android apps using R and Power BI.
 - **Reduced Production Costs by 70%** and increased data quality by 30% at IEMN CNRS through collaborative solutions.
 
+### Key Contributions
+- **Expanded Analysis Capabilities by 65%** at [IJL CNRS](https://github.com/yourusername/Analytics-Research-Projects#phd-research-bioimpedance-modeling-and-sensor-optimization), resulting in adoption by 4 industry leaders.
+- **Improved Data Quality by 75%** in [capstone project analyzing 10k+ Android apps](Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md) using R and Power BI.
+- **Reduced Production Costs by 70%** and **increased data quality by 30%** at [IEMN CNRS](https://github.com/yourusername/Analytics-Research-Projects#post-doc-research) through collaborative solutions.
+
 ## 🤝 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim) - Connect for professional networking.
 - [GitHub](https://github.com/mouhamaadibrahim) - View more data-driven projects.
