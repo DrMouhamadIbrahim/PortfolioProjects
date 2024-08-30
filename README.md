@@ -1,6 +1,6 @@
 # Data-Driven Solutions Projects by Mouhamad Ibrahim, PhD
 
-Welcome to my Data-Driven Solutions Projects repository! 🧠 I am an award-winning Data Analyst with over 5 years of experience specializing in transforming complex data into actionable insights through statistical analysis, data visualization, and modeling.  
+Welcome to my Data-Driven Solutions Projects repository! 🧠 I am an award-winning Data Analyst with over 5 years of experience in research and higher education, specializing in transforming complex data into actionable insights through statistical analysis, data visualization, and modeling.  
 This repository highlights projects focused on business intelligence and data analytics, applying advanced techniques using tools like **SQL**, **Excel**, **R**, **Power BI**, and **Tableau** as I transition into industry roles.  
 These projects include personal explorations, capstone projects, and competitive data challenges, all aimed at delivering impactful business solutions and insights.
 
