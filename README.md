@@ -1,18 +1,19 @@
 # Data-Driven Solutions Projects by Mouhamad Ibrahim, PhD
 
-Welcome to my Data-Driven Solutions Projects repository! I am an award-winning Data Analyst with over 5 years of experience specializing in transforming complex data into actionable insights through statistical analysis, data visualization, and modeling.  
+Welcome to my Data-Driven Solutions Projects repository! 🧠 I am an award-winning Data Analyst with over 5 years of experience specializing in transforming complex data into actionable insights through statistical analysis, data visualization, and modeling.
 This repository highlights projects focused on business intelligence and data analytics, applying advanced techniques using tools like **SQL**, **Excel**, **R**, **Power BI**, and **Tableau** as I transition into industry roles. These projects include personal explorations, capstone projects, and competitive data challenges, all aimed at delivering impactful business solutions and insights.
 
 ## 💻 Technical Skills
 
-- **Data Analysis & Visualization:** SQL (Joins, Subqueries, CTEs), Excel (Pivot Tables, XLOOKUP), R (ggplot2, dplyr, tidyr)
-- **Business Intelligence:** Microsoft Power BI (DAX, Power Query), Tableau (Calculated Fields, Forecasting)
-- **Statistical Analysis & Modeling:** Regression analysis, A/B testing, hypothesis testing
+- **🔍 Data Analysis & Visualization:** SQL (Joins, Subqueries, CTEs), Excel (Pivot Tables, XLOOKUP), R (ggplot2, dplyr, tidyr)
+- **📊 Business Intelligence:** Microsoft Power BI (DAX, Power Query), Tableau (Calculated Fields, Forecasting)
+- **📈 Statistical Analysis & Modeling:** Regression analysis, A/B testing, hypothesis testing
 
 ## 📊 Key Achievements
-- **Improved Data Quality by 75%** in a capstone project analyzing 10k+ Android apps using R and Power BI, enabling robust analysis and delivering actionable business insights.
-- **Created an Interactive Tableau Dashboard** interpreting **1M+ rows** of data for the SF Bike Share Insights project, identifying opportunities for a **2.73%** revenue growth by targeting high-value casual riders for conversion.
-- **Devised Mortality Risk Models** using SQL in the COVID-19 Trends Analysis project to correlate infection rates with death rates, uncovering critical insights such as Lebanon's peak death rate of **4.92%**.
+
+- **🛠 Improved Data Quality by 75%** in a capstone project analyzing **10k+** Android apps using R and Power BI, enabling robust analysis and delivering actionable business insights.
+- **📉 Created an Interactive Tableau Dashboard** interpreting **1M+ rows** of data for the SF Bike Share Insights project, identifying opportunities for a **2.73%** revenue growth by targeting high-value casual riders for conversion.
+- **📊 Devised Mortality Risk Models** using SQL in the COVID-19 Trends Analysis project to correlate infection rates with death rates, uncovering critical insights such as Lebanon's peak death rate of **4.92%**.
 
 ## 📈 Featured Projects
 
@@ -43,21 +44,21 @@ This repository highlights projects focused on business intelligence and data an
 Award-winning Data Analyst with 5+ years of experience transforming complex data into actionable insights through statistical analysis, data visualization, and modeling. Skilled in leveraging tools like SQL, R, Excel, Tableau, and Power BI to deliver data-driven solutions that elevate business intelligence and support decision-making.  
 My work spans actionable business intelligence solutions, impactful data challenges, and effective data-driven decision-making processes in research, higher education, and business settings as I transition into industry roles.
 
-### Core Competencies
+### 🚀 Core Competencies
 - **Data Analysis & Visualization:** SQL, Excel, R, Power BI, Tableau
 - **Statistical Modeling:** Regression analysis, hypothesis testing, A/B testing
 - **Project Management:** Cross-functional team collaboration, stakeholder communication
 
 ### 🏆 Distinguished Accomplishments
 - **Earned the Gold Streak Badge** for mastering 6 data challenges, ranked 1st in Zaka AI’s Data Analytics specialization program.
-- Published 5+ highly cited research papers, with one ranked in the top 25% by Altmetric.
+- Published 5+ highly cited research papers, with one ranked in the top **25%** by Altmetric.
 
-### Key Contributions
+### 📌 Key Contributions
 - **Expanded Analysis Capabilities by 65%** at [IJL CNRS](https://github.com/mouhamaadibrahim/Analytics-Research-Projects#phd-research-bioimpedance-modeling-and-sensor-optimization), resulting in adoption by 4 industry leaders.
 - **Improved Data Quality by 75%** in [capstone project analyzing 10k+ Android apps](Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md) using R and Power BI.
 - **Reduced Production Costs by 70%** and **increased data quality by 30%** at [IEMN CNRS](https://github.com/mouhamaadibrahim/Analytics-Research-Projects#post-doc-research) through collaborative solutions.
 
 ## 🤝 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim) - Connect for professional networking.
-- [GitHub](https://github.com/mouhamaadibrahim) - View more data-driven projects.
-- [Email](mailto:mouhamaad.ibrahim@gmail.com) - Reach out for collaboration or opportunities.
+- [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim) - Let's connect and explore potential collaborations!
+- [GitHub](https://github.com/mouhamaadibrahim) - Check out more of my data-driven projects.
+- [Email](mailto:mouhamaad.ibrahim@gmail.com) - Feel free to reach out for collaborations or opportunities.
