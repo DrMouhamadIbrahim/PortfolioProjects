@@ -17,7 +17,7 @@ The findings provide actionable insights for app developers, highlighting how ge
 
 ## 📂 Datasets
 - **Google Play Store Apps Data (2010-2018):** This dataset contains information on various Google Play Store apps, including app name, category, rating, reviews, size, installs, and more.
-  - Source: [Kaggle - Google Play Store Apps](https://www.kaggle.com/datasets)
+  - Source: [Kaggle - Google Play Store Apps]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/lava18/google-play-store-apps))
 
 [Click here to download the dataset from this repository](datasets/).
 
